@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React With Mavin
+          Learn React With Mavin OK?
         </a>
       </header>
     </div>
