@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React With Mavin OK?
+          My New Up Date
         </a>
       </header>
     </div>
